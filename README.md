@@ -45,8 +45,9 @@ We compared three vectorization techniques:
 Ensure you have Python installed. Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 
-## 2. Execution
+### 2. Execution
 
 Run the main script to fetch data, train models, and generate the results:
 
